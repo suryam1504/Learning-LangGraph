@@ -2,7 +2,7 @@
 
 I am currently exploring LangGraph to build stateful, multi-step LLM workflows — going beyond simple chains to graph-based orchestration that supports parallelization, conditional routing, iterative feedback loops, and production-grade state persistence.
 
-This builds directly on my prior [LangChain work](https://github.com/suryamgupta/Learning-LangChain) and focuses on the patterns that LangChain alone cannot handle cleanly: loops, fault tolerance, and human-in-the-loop workflows.
+This builds directly on my prior [LangChain work](https://github.com/suryam1504/Learning-LangChain) and focuses on the patterns that LangChain alone cannot handle cleanly: loops, fault tolerance, and human-in-the-loop workflows.
 
 ---
 
